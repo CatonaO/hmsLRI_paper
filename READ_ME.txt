@@ -37,7 +37,7 @@ Genome Browsers tracks
 	UCSC Genome Browser
 	The hmsLRI are available as a remote track hub for UCSC Genome Browser
 	You can browse them at: http://genome.ucsc.edu/cgi-bin/hgHubConnect?redirect=manual&source=genome.ucsc.edu
-	Under the section "My Hubs" you can insert the following URL and add the Hub: https://raw.githubusercontent.com/CatonaO/hmsLRI_paper/main/UCSC_Genome_Browser_hub/hubDirectory/hub.txt/hub.txt
+	Under the section "My Hubs" you can insert the following URL and add the Hub: https://raw.githubusercontent.com/CatonaO/hmsLRI_paper/main/UCSC_Genome_Browser_hub/hubDirectory/hub.txt
 
 	WashU Epigenome Browser
 	hmsLRI tracks for WashU Epigenome Browser are currently available as a local hub, you can download
