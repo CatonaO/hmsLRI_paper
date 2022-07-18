@@ -19,18 +19,19 @@ Supplementary Tables
 	Zarrei Poised sheets list hmsLRI and hmsLRI-E, involving Active and  Poised enhancers respectively
 
 	Table S4
-	A) Mouse long-range interactions (in blue) connecting active or poised enhancers with promoters of genes 
+	Mouse long-range interactions (in blue) connecting active or poised enhancers with promoters of genes 
 	involved in eye development (Williamson and FitzPatrick 2014), present in the wTR1, wTR2, wTR3 interactions 
 	datasets in (Bertolini et al. 2019), and their syntenic human equivalent (in orange). The last sheet, named 
 	“Unique”, quotes the human enhancers removing possible duplicates originating from the presence of the 
 	corresponding mouse enhancer in more than one dataset (wTR1, wTR2, wTR3)
 
-	B) Intragenic regions within eye-development genes carrying epigenetic enhancer marks that do not 
+	Table S5
+	Intragenic regions within eye-development genes carrying epigenetic enhancer marks that do not 
 	overlap with anchors (in blue) and their syntenic human equivalent determined with liftover (in orange). 
 	The last sheet, named “Unique”, quotes the human enhancer intragenic regions, removing duplicates.
 
 Supplementary Figures
-	Description inside the supplementary figures file(?)
+	Description inside the supplementary figures file
 
 Genome Browsers tracks
 
